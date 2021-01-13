@@ -5,6 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
          <!-- Adding comments by team member1 --!>
+
+         <!--- Changes done by team lead ---!>
+
     <groupId>groupId</groupId>
     <artifactId>SeleniumProject</artifactId>
     <version>1.0-SNAPSHOT</version>
